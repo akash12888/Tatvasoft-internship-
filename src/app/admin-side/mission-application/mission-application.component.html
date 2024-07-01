@@ -41,6 +41,21 @@
                    <button  class="btndelete btn btn-success" (click)="DeleteMissionApplication(item)"><i class="fa fa-times-circle-o"></i> </button>
                  </td>
                </tr>
+                <!-- example -->
+
+                <tr>
+                  <td>Mission Title</td>
+                  <td>Mission Id</td>
+                  <td>User Id</td>
+                  <td>User Name</td>
+                  <td>Application Date</td>
+                  <td>Active</td>
+                  <td>
+                    <button class="btnedit btn btn-success"><i class="fa fa-check-circle-o"></i> </button>
+                    <button class="btndelete btn btn-success"><i class="fa fa-times-circle-o"></i> </button>
+                  </td>
+                </tr>
+
                <tr *ngIf="result.length === 0">
                 <td colspan="6" style="text-align:center;width:100%;font-size:20px;color: red;"><b>No Data Found </b> </td>
               </tr>

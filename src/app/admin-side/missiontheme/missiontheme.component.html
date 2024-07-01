@@ -13,10 +13,8 @@
            <div class="col-sm-8" style="display: flex;justify-content: flex-end;">
                <button class="btnAdd" routerLink="../addMissionTheme"><span class="btnAddIcon"><i class="fa fa-plus"></i></span><span class="add">Add</span></button>
                <!---edit and delete button added -->
-               <button class="btnedit" routerLink="../editMissionTheme"><span class="btneditIcon"><i class="fa fa-edit"></i></span><span class="edit">edit</span></button>
-               <button class="btndelete" routerLink="../deleteMissionTheme"><span class="btndeleteIcon"><i class="fa fa-trash"></i></span><span class="delete">delete</span></button>
-
-           </div>
+               
+           
        </div>
        <div class="row">
          <div class="col-sm-12">
@@ -30,14 +28,33 @@
                </tr>
              </thead>
              <tbody>
+              
               <ng-container *ngIf="(missionThemeList | filter:searchText | paginate :{ itemsPerPage: itemsPerPages, currentPage: page })as result">
                 <tr *ngFor="let item of result" style="text-align: left;">
                  <td>{{item.themeName}}</td>
                  <td style="text-align: right;color:#14c506;" [ngStyle]="item.status == 'active' ? {'color': '#14c506'} : {'color': '#ff0000'}">{{item.status == 'active' ? 'Active' : 'In-Active'}}</td>
                  <td style="text-align: right;">
+                  <!---edit and delete button added -->
+                  <button class="btnedit" routerLink="../editMissionTheme/{{item.id}}"> <i class="fa fa-edit "></i>
+                  </button>
+                  <button class="btndelete" routerLink="../deleteMissionTheme/{{item.id}}"> <i
+                      class="fa fa-trash-o "></i>
+                  </button>
                    
                  </td>
                </tr>
+               <!-- Example -->
+               <tr>
+                <td>Theme Name</td>
+                <td style="text-align: right;color:#14c506;">Active</td>
+                <td style="text-align: right;">
+                  <!-- Edit and Delete Button Added -->
+                  <button class="btnedit"> <i class="fa fa-edit "></i>
+                  </button>
+                  <button class="btndelete"> <i class="fa fa-trash-o "></i>
+                  </button>
+                </td>
+              </tr>
                <tr *ngIf="result.length === 0">
                 <td colspan="6" style="text-align:center;width:100%;font-size:20px;color: red;"><b>No Data Found </b> </td>
               </tr>

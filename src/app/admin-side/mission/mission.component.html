@@ -36,7 +36,9 @@
                  <td style="text-align: right;">{{item.endDate | date: 'dd/MM/yyyy'}}</td>
                  <td style="text-align: right;">
                    <button class="btndelete" (click)="OpenRemoveMissionModal(item.id)"> <i class="fa fa-trash-o"></i> delete</button>
+                  </td>
                    <!--edit button added by me-->
+                   <td style="text-align: right;">
                    <button class="btnedit" (click)="OpenRemoveMissionModal(item.id)"> <i class="fa fa-edit-o"></i> edit </button>
                  </td>
                </tr>

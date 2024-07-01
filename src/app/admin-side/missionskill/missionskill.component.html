@@ -12,9 +12,7 @@
            </div>
            <div class="col-sm-8" style="display: flex;justify-content: flex-end;">
                <button class="btnAdd" routerLink="../addMissionSkill"><span class="btnAddIcon"><i class="fa fa-plus"></i></span><span class="add">Add</span></button>
-               <!--edit and delete button added -->
-               <button class="btndelete" routerLink="../deleteMissionSkill"><span class="btndeleteIcon"><i class="fa fa-trash"></i></span><span class="delete">Delete</span></button>
-               <button class="btnedit" routerLink="../editMissionSkill"><span class="btneditIcon"><i class="fa fa-edit"></i></span><span class="edit">Edit</span></button>
+              
            </div>
        </div>
        <div class="row">
@@ -29,14 +27,30 @@
                </tr>
              </thead>
              <tbody>
+              
               <ng-container *ngIf="(missionSkillList | filter:searchText | paginate :{ itemsPerPage: itemsPerPages, currentPage: page })as result">
                 <tr *ngFor="let item of result">
                  <td>{{item.skillName}}</td>
                  <td style="text-align: right;color:#14c506;" [ngStyle]="item.status == 'active' ? {'color': '#14c506'} : {'color': '#ff0000'}">{{item.status == 'active' ? 'Active' : 'In-Active'}}</td>
                  <td style="text-align: right;">
+                   <!--edit and delete button added -->
+               <button class="btndelete" routerLink="../deleteMissionSkill"><span class="btndeleteIcon"><i class="fa fa-trash"></i></span><span class="delete">Delete</span></button>
+               <button class="btnedit" routerLink="../editMissionSkill"><span class="btneditIcon"><i class="fa fa-edit"></i></span><span class="edit">Edit</span></button>
 
                  </td>
                </tr>
+               <!-- Example -->
+               <tr>
+                <td>Skill Name</td>
+                <td style="text-align: right;color:#14c506;">Active</td>
+                <td style="text-align: right;">
+                  <!-- edit and delete Button Added -->
+                  <button class="btnedit"> <i class="fa fa-edit "></i>
+                  </button>
+                  <button class="btndelete"> <i class="fa fa-trash-o "></i>
+                  </button>
+                </td>
+
                <tr *ngIf="result.length === 0">
                 <td colspan="6" style="text-align:center;width:100%;font-size:20px;color: red;"><b>No Data Found </b> </td>
               </tr>

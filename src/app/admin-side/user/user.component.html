@@ -28,8 +28,13 @@
                  <th scope="col">Status</th>
                  <th scope="col" style="text-align: right;">Action</th>
                </tr>
-             </thead>
+               
+            
+               </thead>
              <tbody>
+              
+              
+          
               <ng-container *ngIf="(userList | filter:searchText | paginate :{ itemsPerPage: itemsPerPages, currentPage: page })as result">
                <tr *ngFor="let item of result">
                  <td>{{item.name}}</td>
@@ -39,11 +44,32 @@
                  <td>{{item.department}}</td>
                  <td style="color:#14c506;">{{item.status ? 'active':'inactive'}}</td>
                  <td style="text-align: right;">
+                  
                   <button class="btnedit" routerLink="../editUser/{{item.id}}"> <i class="fa fa-edit "></i> edit</button>
                   <!---delete button added -->
+                
                   <button class="btndelete" routerLink="../deleteuser{{item.id}}"> <i class="fa fa-trash "></i>delete </button>
                  </td>
                </tr>
+               <!-- Example -->
+               <tr>
+                <td>Akash </td>
+                <td>Sahani</td>
+                <td>akashsahani128@gmail.com</td>
+                <td>210130107030</td>
+                <td>CE</td>
+                <td style="color:#14c506;">Active</td>
+                
+                <td style="text-align: right;">
+              
+                  <button class="btnedit"> <i class="fa fa-edit "></i>
+                  </button>
+                  <button class="btndelete"> <i class="fa fa-trash-o "></i>
+                  </button>
+                </td>
+                
+                
+
                <tr *ngIf="result.length === 0">
                 <td colspan="6" style="text-align:center;width:100%;font-size:20px;color: red;"><b>No Data Found </b> </td>
               </tr>
