@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E08917-B208-4526-A53B-3A0BE0F347EB}|Data_logic_layer\\Data_logic_layer.csproj|c:\\users\\akash\\onedrive\\desktop\\tatvasoft\\clone\\webapplication1\\data_logic_layer\\entity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E08917-B208-4526-A53B-3A0BE0F347EB}|Data_logic_layer\\Data_logic_layer.csproj|solutionrelative:data_logic_layer\\entity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894DB2A9-179F-464B-A102-FF80C5A51136}|business_logic_layer\\business_logic_layer.csproj|c:\\users\\akash\\onedrive\\desktop\\tatvasoft\\clone\\webapplication1\\business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894DB2A9-179F-464B-A102-FF80C5A51136}|business_logic_layer\\business_logic_layer.csproj|solutionrelative:business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E08917-B208-4526-A53B-3A0BE0F347EB}|Data_logic_layer\\Data_logic_layer.csproj|c:\\users\\akash\\onedrive\\desktop\\tatvasoft\\clone\\webapplication1\\data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E08917-B208-4526-A53B-3A0BE0F347EB}|Data_logic_layer\\Data_logic_layer.csproj|solutionrelative:data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2C01-4A60-417A-ABFE-238EEB45B579}|WebApplication1\\WebApplication1.csproj|c:\\users\\akash\\onedrive\\desktop\\tatvasoft\\clone\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F9A2C01-4A60-417A-ABFE-238EEB45B579}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2C01-4A60-417A-ABFE-238EEB45B579}|WebApplication1\\WebApplication1.csproj|c:\\users\\akash\\onedrive\\desktop\\tatvasoft\\clone\\webapplication1\\webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9A2C01-4A60-417A-ABFE-238EEB45B579}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E08917-B208-4526-A53B-3A0BE0F347EB}|Data_logic_layer\\Data_logic_layer.csproj|c:\\users\\akash\\onedrive\\desktop\\tatvasoft\\clone\\webapplication1\\data_logic_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E08917-B208-4526-A53B-3A0BE0F347EB}|Data_logic_layer\\Data_logic_layer.csproj|solutionrelative:data_logic_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E08917-B208-4526-A53B-3A0BE0F347EB}|Data_logic_layer\\Data_logic_layer.csproj|c:\\users\\akash\\onedrive\\desktop\\tatvasoft\\clone\\webapplication1\\data_logic_layer\\entity\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E08917-B208-4526-A53B-3A0BE0F347EB}|Data_logic_layer\\Data_logic_layer.csproj|solutionrelative:data_logic_layer\\entity\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E08917-B208-4526-A53B-3A0BE0F347EB}|Data_logic_layer\\Data_logic_layer.csproj|c:\\users\\akash\\onedrive\\desktop\\tatvasoft\\clone\\webapplication1\\data_logic_layer\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E08917-B208-4526-A53B-3A0BE0F347EB}|Data_logic_layer\\Data_logic_layer.csproj|solutionrelative:data_logic_layer\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2C01-4A60-417A-ABFE-238EEB45B579}|WebApplication1\\WebApplication1.csproj|c:\\users\\akash\\onedrive\\desktop\\tatvasoft\\clone\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9A2C01-4A60-417A-ABFE-238EEB45B579}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9A2C01-4A60-417A-ABFE-238EEB45B579}|WebApplication1\\WebApplication1.csproj|c:\\users\\akash\\onedrive\\desktop\\tatvasoft\\clone\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F9A2C01-4A60-417A-ABFE-238EEB45B579}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E08917-B208-4526-A53B-3A0BE0F347EB}|Data_logic_layer\\Data_logic_layer.csproj|c:\\users\\akash\\onedrive\\desktop\\tatvasoft\\clone\\webapplication1\\data_logic_layer\\data_logic_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2E08917-B208-4526-A53B-3A0BE0F347EB}|Data_logic_layer\\Data_logic_layer.csproj|solutionrelative:data_logic_layer\\data_logic_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E08917-B208-4526-A53B-3A0BE0F347EB}|Data_logic_layer\\Data_logic_layer.csproj|c:\\users\\akash\\onedrive\\desktop\\tatvasoft\\clone\\webapplication1\\data_logic_layer\\migrations\\20240704092640_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E08917-B208-4526-A53B-3A0BE0F347EB}|Data_logic_layer\\Data_logic_layer.csproj|solutionrelative:data_logic_layer\\migrations\\20240704092640_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:27:45.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DALLogin.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\Data_logic_layer\\DALLogin.cs",
+              "RelativeDocumentMoniker": "Data_logic_layer\\DALLogin.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\Data_logic_layer\\DALLogin.cs",
+              "RelativeToolTip": "Data_logic_layer\\DALLogin.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:43:41.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BALLogin.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\business_logic_layer\\BALLogin.cs",
+              "RelativeDocumentMoniker": "business_logic_layer\\BALLogin.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\business_logic_layer\\BALLogin.cs",
+              "RelativeToolTip": "business_logic_layer\\BALLogin.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:39:05.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\WebApplication1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\WebApplication1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:35:01.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\Data_logic_layer\\Entity\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "Data_logic_layer\\Entity\\ResponseResult.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\Data_logic_layer\\Entity\\ResponseResult.cs",
+              "RelativeToolTip": "Data_logic_layer\\Entity\\ResponseResult.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:31:35.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240704092640_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\Data_logic_layer\\Migrations\\20240704092640_Initial.cs",
+              "RelativeDocumentMoniker": "Data_logic_layer\\Migrations\\20240704092640_Initial.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\Data_logic_layer\\Migrations\\20240704092640_Initial.cs",
+              "RelativeToolTip": "Data_logic_layer\\Migrations\\20240704092640_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:26:41.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T09:17:41.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T09:06:18.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\Data_logic_layer\\Entity\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data_logic_layer\\Entity\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\Data_logic_layer\\Entity\\AppDbContext.cs",
+              "RelativeToolTip": "Data_logic_layer\\Entity\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:02:11.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\Data_logic_layer\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Data_logic_layer\\Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\Data_logic_layer\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "Data_logic_layer\\Entity\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:48:47.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\Data_logic_layer\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Data_logic_layer\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\Data_logic_layer\\Entity\\User.cs",
+              "RelativeToolTip": "Data_logic_layer\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:48:08.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Data_logic_layer.csproj",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\Data_logic_layer\\Data_logic_layer.csproj",
+              "RelativeDocumentMoniker": "Data_logic_layer\\Data_logic_layer.csproj",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\tatvasoft\\clone\\WebApplication1\\Data_logic_layer\\Data_logic_layer.csproj",
+              "RelativeToolTip": "Data_logic_layer\\Data_logic_layer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T08:46:35.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

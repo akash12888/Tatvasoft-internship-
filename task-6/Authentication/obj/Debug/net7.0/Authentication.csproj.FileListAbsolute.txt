@@ -1,0 +1,200 @@
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Authentication.exe
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Authentication.deps.json
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Authentication.runtimeconfig.json
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Authentication.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Authentication.pdb
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.AssemblyInfo.cs
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.build.Authentication.props
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.props
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Authentication.props
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\scopedcss\bundle\Authentication.styles.css
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.csproj.CopyComplete
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.dll
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\refint\Authentication.dll
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.pdb
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.genruntimeconfig.cache
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\ref\Authentication.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Npgsql.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\System.CodeDom.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\appsettings.Development.json
+E:\Authentication\Authentication\bin\Debug\net7.0\appsettings.json
+E:\Authentication\Authentication\bin\Debug\net7.0\Authentication.exe
+E:\Authentication\Authentication\bin\Debug\net7.0\Authentication.deps.json
+E:\Authentication\Authentication\bin\Debug\net7.0\Authentication.runtimeconfig.json
+E:\Authentication\Authentication\bin\Debug\net7.0\Authentication.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Authentication.pdb
+E:\Authentication\Authentication\bin\Debug\net7.0\Humanizer.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Npgsql.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\System.CodeDom.dll
+E:\Authentication\Authentication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Authentication\Authentication\obj\Debug\net7.0\Authentication.csproj.AssemblyReference.cache
+E:\Authentication\Authentication\obj\Debug\net7.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Authentication\Authentication\obj\Debug\net7.0\Authentication.AssemblyInfoInputs.cache
+E:\Authentication\Authentication\obj\Debug\net7.0\Authentication.AssemblyInfo.cs
+E:\Authentication\Authentication\obj\Debug\net7.0\Authentication.csproj.CoreCompileInputs.cache
+E:\Authentication\Authentication\obj\Debug\net7.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+E:\Authentication\Authentication\obj\Debug\net7.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+E:\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.build.json
+E:\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.development.json
+E:\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.build.Authentication.props
+E:\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.props
+E:\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Authentication.props
+E:\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Authentication\Authentication\obj\Debug\net7.0\scopedcss\bundle\Authentication.styles.css
+E:\Authentication\Authentication\obj\Debug\net7.0\Authenti.5C4D8D91.Up2Date
+E:\Authentication\Authentication\obj\Debug\net7.0\Authentication.dll
+E:\Authentication\Authentication\obj\Debug\net7.0\refint\Authentication.dll
+E:\Authentication\Authentication\obj\Debug\net7.0\Authentication.pdb
+E:\Authentication\Authentication\obj\Debug\net7.0\Authentication.genruntimeconfig.cache
+E:\Authentication\Authentication\obj\Debug\net7.0\ref\Authentication.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\appsettings.Development.json
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\appsettings.json
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Authentication.exe
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Authentication.deps.json
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Authentication.runtimeconfig.json
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Authentication.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Authentication.pdb
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Humanizer.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Npgsql.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\System.CodeDom.dll
+D:\project clone\Authentication\Authentication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\Authentication.csproj.AssemblyReference.cache
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\Authentication.AssemblyInfoInputs.cache
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\Authentication.AssemblyInfo.cs
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\Authentication.csproj.CoreCompileInputs.cache
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.build.json
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.development.json
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.build.Authentication.props
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.props
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Authentication.props
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.pack.json
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\scopedcss\bundle\Authentication.styles.css
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\Authenti.5C4D8D91.Up2Date
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\Authentication.dll
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\refint\Authentication.dll
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\Authentication.pdb
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\Authentication.genruntimeconfig.cache
+D:\project clone\Authentication\Authentication\obj\Debug\net7.0\ref\Authentication.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\appsettings.json
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Authentication.exe
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Authentication.deps.json
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Authentication.runtimeconfig.json
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Authentication.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Authentication.pdb
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Humanizer.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Npgsql.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\Authentication.csproj.AssemblyReference.cache
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\Authentication.AssemblyInfoInputs.cache
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\Authentication.AssemblyInfo.cs
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.build.Authentication.props
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.props
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Authentication.props
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\scopedcss\bundle\Authentication.styles.css
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\Authenti.5C4D8D91.Up2Date
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\Authentication.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\refint\Authentication.dll
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\Authentication.pdb
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\Authentication.genruntimeconfig.cache
+C:\Users\akash\OneDrive\Desktop\Authentication\Authentication\obj\Debug\net7.0\ref\Authentication.dll

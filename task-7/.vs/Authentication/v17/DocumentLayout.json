@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\repository\\imissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\imissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\repository\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\repository\\missionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\missionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\repository\\themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\controllers\\missionskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\missionskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\repository\\itheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\itheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\controllers\\themecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\themecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\repository\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\migrations\\20240709175928_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\migrations\\20240709175928_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\akash\\onedrive\\desktop\\authentication - copy\\authentication\\migrations\\20240710074326_table-missionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\migrations\\20240710074326_table-missionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MissionSkillController.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Controllers\\MissionSkillController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\MissionSkillController.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Controllers\\MissionSkillController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\MissionSkillController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:21:58.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMissionSkill.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Repository\\IMissionSkill.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\IMissionSkill.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Repository\\IMissionSkill.cs",
+              "RelativeToolTip": "Authentication\\Repository\\IMissionSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:46:14.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MissionSkill.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Repository\\MissionSkill.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\MissionSkill.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Repository\\MissionSkill.cs",
+              "RelativeToolTip": "Authentication\\Repository\\MissionSkill.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAowHkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:45:51.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240710074326_Table-MissionSkill.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Migrations\\20240710074326_Table-MissionSkill.cs",
+              "RelativeDocumentMoniker": "Authentication\\Migrations\\20240710074326_Table-MissionSkill.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Migrations\\20240710074326_Table-MissionSkill.cs",
+              "RelativeToolTip": "Authentication\\Migrations\\20240710074326_Table-MissionSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:43:27.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240709175928_Table.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Migrations\\20240709175928_Table.cs",
+              "RelativeDocumentMoniker": "Authentication\\Migrations\\20240709175928_Table.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Migrations\\20240709175928_Table.cs",
+              "RelativeToolTip": "Authentication\\Migrations\\20240709175928_Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:59:28.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThemeController.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Controllers\\ThemeController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\ThemeController.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Controllers\\ThemeController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\ThemeController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAUwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:05:57.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITheme.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Repository\\ITheme.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\ITheme.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Repository\\ITheme.cs",
+              "RelativeToolTip": "Authentication\\Repository\\ITheme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:02:52.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Themes.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Repository\\Themes.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\Themes.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Repository\\Themes.cs",
+              "RelativeToolTip": "Authentication\\Repository\\Themes.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:02:09.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\MissionController.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\MissionController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:52:22.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Authentication\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Entities\\User.cs",
+              "RelativeToolTip": "Authentication\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:52:23.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMission.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Repository\\IMission.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\IMission.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Repository\\IMission.cs",
+              "RelativeToolTip": "Authentication\\Repository\\IMission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:52:23.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Repository\\Mission.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\Mission.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Repository\\Mission.cs",
+              "RelativeToolTip": "Authentication\\Repository\\Mission.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAhwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:52:23.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwC8AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:52:23.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthContext.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\AuthContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\AuthContext.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\AuthContext.cs",
+              "RelativeToolTip": "Authentication\\AuthContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:52:23.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\Program.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Program.cs",
+              "RelativeToolTip": "Authentication\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwFMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:52:23.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\appsettings.json",
+              "RelativeToolTip": "Authentication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T11:52:23.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Authentication\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Model\\User.cs",
+              "RelativeToolTip": "Authentication\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:52:23.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Authentication - Copy\\Authentication\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:52:23.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
